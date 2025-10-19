@@ -7,7 +7,7 @@ It enables HR managers to track hiring patterns, evaluate workforce composition,
 ---
 
 ## 🌐 Live Dashboard
-🔗 [View on Tableau Public](#) <!-- Replace # with your Tableau Public link -->
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/himangshu.choudhury/viz/Human_Resource_Dashboard_Summary_Details/HRDetails) 
 
 ---
 
@@ -117,6 +117,14 @@ It contains detailed employee records representing multiple departments and loca
 - Built **interactive summary and detailed employee record views**.  
 - Implemented **calculated fields** to automate HR metrics computation.  
 - Delivered a **visually consistent and user-friendly layout** optimized for decision-making.  
+
+---
+
+## Files Included
+- `images` — All Project Assets
+- `dataset.csv` — Synthetic HR dataset
+- `dashboard.twbx` — Tableau workbook
+- `README.md` — Project documentation
 
 ---
 
